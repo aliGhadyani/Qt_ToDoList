@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>icons8-delete-64.png</file>
+        <file>icons8-edit-50.png</file>
+        <file>icons8-task-30.png</file>
+        <file>icons8-to-do-50.png</file>
+        <file>icons8-refresh-50.png</file>
+        <file>appicon.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icons8-refresh-50.png</file>
+    </qresource>
+</RCC>
